@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nSemester - I\n\n\t\t\t\tFoundation Course-Language I
+        \n\t\t\t\tFoundation Course-English I
+        \n\t\t\t\tCore I-Fundamentals of Digital Computers
+        \n\t\t\t\tCore II-PC Software Lab (P)
+        \n\t\t\t\tAllied I-Mathematics I
+        \n\t\t\t\tSoft Skills - Essentials of Language and Communication - Level I
+		\n\t\t\t\tNon-major Elective
+\n\nSemester - II	\n\n\t\t\t\tFoundation Course-Language II
+			\n\t\t\t\tFoundation Course-English II
+			\n\t\t\t\tCore III-Prog in C
+			\n\t\t\t\tCore IV-Prog in C (P)
+			\n\t\t\t\tAllied II-Mathematics II
+			\n\t\t\t\tSoft Skills - Essentials of Language and Communication - Level II
+			\n\t\t\t\tNon-major Elective"
+        android:textSize="17sp"/>
+
+</LinearLayout>

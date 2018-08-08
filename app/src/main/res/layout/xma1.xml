@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nI Semester\n\n\t\t\t\tPaper-I-Poetry From Chaucer to 17th Century
+\n\t\t\t\tPaper-II-Drama Elizabethan and Jacobean Drama
+\n\t\t\t\tPaper-III-Fiction origins and developments upto 18th century
+\n\t\t\t\tPaper-IV-Indian Writing in English and in Translation
+\n\t\t\t\tElective (within the department)-classics in translation
+\n\t\t\t\tElective (for other departments)-spoken English
+\n\t\t\t\tSoft skills-Essentials of Lang and Comm
+
+\n\nII Semester\n\n\t\t\t\tPaper V-Americal literature
+\n\t\t\t\tPaper VI-Eighteenth to Nineteenth Century
+\n\t\t\t\tPaper-VII-Restoration to Twentieth Century
+\n\t\t\t\tPaper-VIII-Nineteenth to Twentieth Century
+\n\t\t\t\tElective (within the department)-English for careers
+\n\t\t\t\tElective (for other department)-English for careers
+\n\t\t\t\tSoft Skills-Spoken and Presentation Skills"
+        android:textSize="17sp"/>
+
+</LinearLayout>

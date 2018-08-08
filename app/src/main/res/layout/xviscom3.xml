@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nV Semester\n\n\t\t\t\tMedia, Culture and Society
+\n\t\t\t\tTelevision Production
+\n\t\t\t\tWeb Publishing (Practical)
+\n\t\t\t\tAdvertising Photography (Practical)
+\n\t\t\t\tProject (Phase I)
+\n\t\t\t\tValue Education
+
+\n\nVI Semester\n\n\t\t\t\tMedia Organization
+\n\t\t\t\tTV Production Practice (Practical)
+\n\t\t\t\t3 D Animation (Practical)
+\n\t\t\t\tProject (Phase-II and III)
+\n\t\t\t\tExtension Activities"
+        android:textSize="17sp"/>
+
+</LinearLayout>

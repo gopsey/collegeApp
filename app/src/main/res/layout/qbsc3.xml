@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\tV Semester"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+        <Button
+            android:id="@+id/dwnld"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200dp"
+            android:layout_marginStart="200dp"
+            android:text="DOWNLOAD"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"
+        android:text="\n\n\t\t\t\tOperating Systems
+\n\t\t\t\tDatabase Management Systems
+\n\t\t\t\tComputer Architecture and Organization
+\n\t\t\t\tRDBMS LAB
+\n\t\t\t\tVisual Programming (Elective - I)
+\n\t\t\t\tValue Education
+
+\n\nVI Semester\n\n\t\t\t\tData Communication and Networkinh
+\n\t\t\t\tWeb Technology
+\n\t\t\t\tWeb Applications LAB
+\n\t\t\t\tData Mining (Elective - II)
+\n\t\t\t\tComputer Graphics (Elective - III)
+\n\t\t\t\tExtension Activities"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\n\nNote: The question papers are compressed in zip files. You may require a separate app to open zip files"/>
+
+
+
+</LinearLayout>
+    </ScrollView>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nI Semester\n\n\t\t\t\tAdvanced Corporate Accounting and Accounting Standards
+\n\t\t\t\tFinancial Management
+\n\t\t\t\tOrganizational Behaviour
+\n\t\t\t\tManagerial Economics
+\n\t\t\t\tElective-I
+\n\t\t\t\tSoft Skill-I
+
+
+\n\nII Semester\n\n\t\t\t\tAdvanced Cost and Management Accounting Quantitative Techniques for Business Decision Marketing of Services
+\n\t\t\t\tElective-II
+\n\t\t\t\tExtradisciplinary-Total Quality Management
+\n\t\t\t\tSoft Skill-II
+\n\t\t\t\tList of Electives
+\n\t\t\t\t1.Income Tax Law and Practice
+\n\t\t\t\t2.Computerized accounting
+\n\t\t\t\t3.Strategic Human Resource Management and Development
+\n\t\t\t\t4.Industrial relations and labour welfare
+\n\t\t\t\t5.Advertising and Salesmanship"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+</LinearLayout>

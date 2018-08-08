@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nIII Semester\n\n\t\t\t\tFoundation Course-Languages
+\n\t\t\t\tFoundation Course-English-II
+\n\t\t\t\tPaper-V-Twentieth Century
+\n\t\t\t\tPaper I-Prose and Drama
+\n\t\t\t\tPaper-VI-Modern English Grammar and Usage
+\n\t\t\t\tAllied Paper III-History of English Literature-1500-1798
+\n\t\t\t\tSoft Skill-Computing Skills Level I
+\n\t\t\t\tEnvironmental Studies (Exam in IV Sem)
+
+\n\nIV Semester\n\n\t\t\t\tPaper-VII-Twentieth Century Paper I-Poetry and Fiction
+\n\t\t\t\tPaper-VIII-History of English Language
+\n\t\t\t\tAllied Paper IV-History of English Literature-1798-Present Day
+\n\t\t\t\tSoft Skill-Computing Skills Level II
+\n\t\t\t\tEnvironmental Studies"
+        android:textSize="17sp"/>
+
+</LinearLayout>

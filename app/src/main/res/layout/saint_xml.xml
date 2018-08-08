@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="290dp"
+            android:src="@drawable/saint_patrick"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="\nSt.Patrick, Patron Saint\n"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="\t\tSt. Patrick, Patron Saint of Ireland and of the Brothers of St. Patrick is one of the world's most popular saints. Patrick was born around 385 AD in Scotland, of Roman parents. As a boy of fourteen, he was captured during a raid party and taken to Ireland as a slave to herd and tend sheep. During his captivity, he turned to God in prayer. Patrick's captivity lasted until he was twenty, when he escaped after a dream in which God told him how to leave Ireland and return to Britain. He had another dream in which he heard the Irish people begging him to come back to them. He joined the priesthood. He was ordained by St.Germanus, the Bishop of Auxerre.\n
+\nLater, Patrick was ordained a bishop, and was asked to take the Gospel to Ireland. He arrived in Ireland on March 25, 433 AD, at Slane. Patrick began preaching the Gospel throughout Ireland, converting many. He and his disciples preached and converted thousands and began building churches all over the country. Kings, their families, and entire kingdoms converted to Christianity on hearing Patrick's message.
+St. Patrick worked many miracles and wrote of his love for God. After years of living in poverty, traveling and enduring much suffering, he died on March 17, 461 AD."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="\nPrayer of St. Patrick\n"
+            android:textStyle="bold"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="\t\tO God, Who did send, among us, your blessed servant St. Patrick to instruct and save us, and did infuse into his heart so great a share of your own tenderness, charity and zeal.  Grant us through his intercession a lively faith, a firm hope and an ardent zeal for charity.  Let our courage be, like that of our Patron, to face trails and diffculties courageously,confident that you are with us in every undertaking.\n"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Amen\n\n"
+            android:layout_gravity="end"/>
+
+    </LinearLayout>
+    </ScrollView>

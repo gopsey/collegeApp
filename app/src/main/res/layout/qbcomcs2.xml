@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\tIII Semester"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+        <Button
+            android:id="@+id/dwnld"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200dp"
+            android:layout_marginStart="200dp"
+            android:text="DOWNLOAD"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"
+        android:text="\n\n\t\t\t\tFoundation Course-Language
+\n\t\t\t\tFoundation Course-English
+\n\t\t\t\tCorporate Accounting-I
+\n\t\t\t\tCompany Law and Sec. Practice.II.
+\n\t\t\t\tStatistics - I
+\n\t\t\t\tSoft Skills - Spoken and Presentation Skills Level I
+\n\t\t\t\tEnvironmental Studies (Exam in IV Sem)
+
+\n\n\tIV Semester\n\n\t\t\t\tFoundation Course-Language IV
+\n\t\t\t\tFoundation Course-English IV
+\n\t\t\t\tCorporate Accounting-II
+\n\t\t\t\tBusiness Management
+\n\t\t\t\tStatistics-II
+\n\t\t\t\tSoft Skill - Spoken and Presentation Skills Level II
+\n\t\t\t\tEnvirinmental Studies"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\n\nNote: The question papers are compressed in zip files. You may require a separate app to open zip files"/>
+
+
+</LinearLayout>
+    </ScrollView>

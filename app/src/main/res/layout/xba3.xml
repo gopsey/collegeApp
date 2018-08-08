@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nV Semester\n\n\t\t\t\tPaper-IX-Shakespeare I
+\n\t\t\t\tPaper-X-Indian Writing in English
+\n\t\t\t\tPaper-XI-American Literature I-Prose and Drama
+\n\t\t\t\tPaper XII-An Introduction of General Linguistics and Communication
+\n\t\t\t\tElective Paper-I-Post Colonial Literatures in English
+\n\t\t\t\tValue Education
+
+\n\nVI Semester\n\n\t\t\t\tPaper-XII-Shakespeare II
+\n\t\t\t\tPaper-XIV-Americal Literature-II-Poetry and Fiction
+\n\t\t\t\tPaper-XV-English Phonetics and Phonology
+\n\t\t\t\tElective Paper II-Indian Literatures in Translation
+\n\t\t\t\tElective Paper III-Journalism
+\n\t\t\t\tExtension Activities20"
+        android:textSize="17sp"/>
+
+</LinearLayout>

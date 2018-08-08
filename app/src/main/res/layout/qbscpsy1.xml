@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nI Semester\n\n\t\t\t\tLanguage Paper-I
+\n\t\t\t\tEnglish Paper-I
+\n\t\t\t\tGeneral Psychology-I
+\n\t\t\t\tBiological Basis of Behaviour-I
+\n\t\t\t\tPrinciples of Sociology
+\n\t\t\t\tSoft Skill I-Essential of Lang and Comm Level I
+\n\t\t\t\tNon-major Electives
+
+\n\nII Semester\n\n\t\t\t\tLanguage-Paper-II
+\n\t\t\t\tEnglish Paper-II
+\n\t\t\t\tGeneral Psychology-II
+\n\t\t\t\tBiological Basis of Behaviour-II
+\n\t\t\t\tFundamentals of Social Anthropology
+\n\t\t\t\tSoft Skill I-Essential of Lang and Comm Level II
+\n\t\t\t\tNon-major Electives"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+</LinearLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nIII Semester\n\n\t\t\t\tProgramming in C++ and Data Structures
+\n\t\t\t\tMicroprocessors and its Applications
+\n\t\t\t\tNumerical and Statistical Methods
+\n\t\t\t\tProg in C++ using Data Structures (Practical)
+\n\t\t\t\tFinancial Accounting
+\n\t\t\t\tSoft Skill - Spoken and Presentation Skills Level I
+\n\t\t\t\tEnvironmental Studies (Exam in IV Sem)
+\n\nIV Semester
+\n\n\t\t\t\tProgramming in Java
+\n\t\t\t\tOperating System
+\n\t\t\t\tComputer Graphics
+\n\t\t\t\tJava Programming Lab (Practical)
+\n\t\t\t\tCost and Management Accounting
+\n\t\t\t\tSoft Skills - Spoken and Presentation Skills Level II
+\n\t\t\t\tEnvironmental Studies"
+        android:textSize="17sp"/>
+
+</LinearLayout>

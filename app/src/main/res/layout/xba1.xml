@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\t\t\t\t\n\n\nI Semester\n\n\t\t\t\tFoundation Course-Language
+\n\t\t\t\tFoundation Course-English-I
+\n\t\t\t\tCore Subjects-Paper-I-Elizabethan Age
+\n\t\t\t\tCore Subjects-Paper-II-Milton and the Neo-Classical Age
+\n\t\t\t\tAllied-Paper-I-An Introduction to the Social History of England
+\n\t\t\t\tSoft Skill-Personality Enrichment-Level I
+\n\t\t\t\tNon-major Elective
+
+\n\nII Semester\n\n\t\t\t\tFoundation Course-Language
+\n\t\t\t\tFoundation Course-English
+\n\t\t\t\tCore Subjects-Paper-I-The Romantic Age
+\n\t\t\t\tCore Subjects-Papar-II-The Victorial Age
+\n\t\t\t\tAllied-Paper-VI-An Introduction to the Literary Forms
+\n\t\t\t\tSoft Skill-Personality Enrichment-Level II
+\n\t\t\t\tNon-Major Elective"
+        android:textSize="17sp"/>
+
+</LinearLayout>

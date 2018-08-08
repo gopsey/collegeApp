@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/patrician_brothers"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Congregation of Brothers of St. Patrick"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\n\t\tThe Congregation of the Brothers of St. Patrick (popularly known as PATRICIAN BROTHERS) began in the small town of Tullow, Ireland in 1808. In 1846, the Brothers travelled across the Atlantic Ocean to Baltimore, USA. In the 19th and 20th centuries, India was a colony of the British Empire. In 1875, the Brothers were invited by the Archbishop of Madras to care for abandoned and uncared children
+\n\n\t\tA few years later in 1883, Brothers from Ireland arrived in Maitland, New South Wales, Australia, under the invitation of the Bishop of that Diocese. In 1961, Brothers were drawn to Kenya. In 1968, the Brothers of the Australian province took up the invitation to teach in a school in Papua New Guinea. Today, Patrician Brothers run schools and other educational institutions in Ireland, United States of America, India, Australia, Papua New Guinea and Kenya. The congregation has its headquarters known as Generalate in Tullow, Ireland and in India it has its Provincialate in New Delhi. The present Superior General is Rev. Bro. Jerome Ellens who resides at the Generalate and the Indian and Ghana Provincial is Rev. Bro. Dr.A.Stanislaus and he resides at the Provincialate in New Delhi.\n\n"
+            android:textColor="@color/black"/>
+
+    </LinearLayout>
+</ScrollView>

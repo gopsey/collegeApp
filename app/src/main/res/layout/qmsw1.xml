@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nI Semester\n\n\t\t\t\tSocial Work Profession Work with Individuals Work with Groups
+\n\t\t\t\tField Work Practicum-I
+\n\t\t\t\tSocial and Psychological Foundations for SW
+\n\t\t\t\tSoft Skills-I
+\n\t\t\t\tRural Camp
+
+\n\nII Semester\n\n\t\t\t\tCommunity Organisation
+\n\t\t\t\tSocial Work and Research and Statistics
+\n\t\t\t\tField Work Practicum III
+\n\t\t\t\tSummer Intership"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+</LinearLayout>

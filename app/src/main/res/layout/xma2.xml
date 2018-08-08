@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nIII Semester\n\n\t\t\t\tPAPER-9 Shakespeare studies
+\n\t\t\t\tPAPER-10 English Language and Linguistics
+\n\t\t\t\tPAPER-11 Literary Criticism and Literary Theory
+\n\t\t\t\tElective (within the department)-Literature, Analysis, Approaches and Applications
+\n\t\t\t\tElective/ED-Copy Editing
+\n\t\t\t\tSoft Skills-Personality Enrichment Intership
+
+\n\nIV Semester	\n\n\t\t\t\tPAPER-12 Twentieth Century Poetry
+\n\t\t\t\tPAPER-13 Writings by and on Women
+\n\t\t\t\tPAPER-14 General Essay
+\n\t\t\t\tSoft Skills-Computing Skills
+\n\t\t\t\tElective (within the department)-Film Studies
+\n\t\t\t\tPAPER-15 PROJECT PLUS VIVA VOCE"
+        android:textSize="17sp"/>
+
+</LinearLayout>

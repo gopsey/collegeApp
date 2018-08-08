@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nIII Semester\n\n\t\t\t\tResearch Methodology
+\n\t\t\t\tKnowledge Management
+\n\t\t\t\tFundamentals of Information Technology
+\n\t\t\t\tElective III-Accounting for Decision Making
+\n\t\t\t\tElective IV-Indirect Taxes
+\n\t\t\t\tExtra disciplinary elective-Business Ethics
+\n\t\t\t\tCorporate Governance and Social Responsibility
+\n\t\t\t\tSoft Skill-III
+
+
+\n\nIV Semester\n\n\t\t\t\tManagement Information Systems
+\n\t\t\t\tInvestment Analysis and Portfolio Theory
+\n\t\t\t\tMerchant Banking and Financial Services Project plus Viva-Voce
+\n\t\t\t\tElective V-Computerized Accounting
+\n\t\t\t\tSoft Skill-IV"
+        android:textSize="17sp"/>
+
+</LinearLayout>

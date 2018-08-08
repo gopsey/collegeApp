@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\tI Semester"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+    <Button
+        android:id="@+id/dwnld"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="200dp"
+        android:layout_marginStart="200dp"
+        android:text="DOWNLOAD"/>
+
+</RelativeLayout>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"
+        android:text="\n\n\t\t\t\tFoundation Course-Language
+\n\t\t\t\tFoundation Course-English
+\n\t\t\t\tCore I-Financial Accounting
+\n\t\t\t\tCore II-Principles of Management
+\n\t\t\t\tAllied I-Managerial Economics
+\n\t\t\t\tSoft Skill - Essentials of Language and Communication - Level I
+\n\t\t\t\tNon-major Electives
+
+\n\nII Semester\n\n\t\t\t\tFoundation Course-Language
+\n\t\t\t\tFoundation Course-English
+\n\t\t\t\tCore III-Business Communication
+\n\t\t\t\tCore IV-Management Accounting
+\n\t\t\t\tAllied II-International Trade
+\n\t\t\t\tSoft Skill - Essentials of Language and Communication - Level II
+\n\t\t\t\tNon-major Electives"/>
+
+</LinearLayout>
+    </ScrollView>

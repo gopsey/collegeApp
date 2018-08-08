@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nIII Semester\n\n\t\t\t\tFoundation Course-Language-III
+\n\t\t\t\tFoundation Course-English-III
+\n\t\t\t\tDifferential Equations and Laplace Transforms
+\n\t\t\t\tCoordinate Geometry of 3 Dimensions and Probability
+\n\t\t\t\tAllied-Cost Accounting
+\n\t\t\t\tSoft Skills-Spoken and Presentation Skills Level I
+\n\t\t\t\tEnvironmental Studies (Exam in IV Sem)
+
+\n\nIV Semester\n\n\t\t\t\tFoundation Course-Language-IV
+\n\t\t\t\tFoundation Course-English-IV
+\n\t\t\t\tVector Calculus, Fourier Series and Fourier Transforms
+\n\t\t\t\tStatics
+\n\t\t\t\tAllied and Management Accounting
+\n\t\t\t\tSoft Skills-Technical Writing
+\n\t\t\t\tEnvironmental Studies (Exam in IV Sem)"
+        android:textSize="17sp"/>
+
+</LinearLayout>

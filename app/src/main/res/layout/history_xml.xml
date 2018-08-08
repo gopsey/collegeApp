@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="\nAbout the College\n"
+    android:textColor="@color/black"
+    android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="\t\tPatrician College of Arts and Science, established in 2001 is a Christian Minority Co-educational Self-financing Institution affiliated to the University of Madras.It was instituted by the Brothers of St. Patrick, a congregation established by Bishop Daniel Delany on 2nd February 1808, in Ireland. The members of the congregation carry inspiration from the life and spirit of their Patron Saint – St. Patrick. With an noble spirit to serve humanity, the Patrician Brothers stepped into the vocation of educating the youth to free them from the bonds of ignorance. With their exceptional skill in leadership, governance and the strong hand of the Almighty, the congregation has established schools and colleges throughout the world.
+\n\n\t\tThe aim of the college is to prepare the youth to constantly seek, strive and find truth, to grow into mature and responsible citizens, ready to face the challenges of life personally and for society. Special efforts are taken to impart values and quality morals of citizenship in an atmosphere that heightens self esteem and empowers the individual. The College therefore strives to inculcate sound philosophy of life in the students based on faith in God.  The motto of St. Patrick is ORA ET LABORA which mean - Pray and Work."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="\nCOLLEGE EMBLEM\n"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="290dp"
+            android:src="@drawable/pcas_logo_2010"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="\n\t\tThe college emblem, the Shamrock, was used by St. Patrick to illustrate and explain to his followers the concept of the Holy Trinity–the Father, the Son and the Holy Spirit. The threefold college motto, 'To Seek, To Strive, To Find'  is aptly symbolized in the Trefoil Shamrock. Patrician College strongly desires  to give fulfillment in the their search of knowledge, steadfastness in the perseverance towards  holistic excellence and illuminating in the discovery of truth.\n\n"/>
+
+    </LinearLayout>
+    </ScrollView>

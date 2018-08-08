@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nSemester V\n\n\t\t\t\tPart-III Core Course-IX:Paper-IX:Social Work Practice with Communities
+\n\t\t\t\tPart-III Core Course-X:Paper-X:Field of Social Work
+\n\t\t\t\tPart-III Core Course-XI:Paper-XI:Social Work
+\n\t\t\t\tResearch and Statistics
+\n\t\t\t\tPart-III Core Course-XII:Paper-XII:Field Work-V
+\n\t\t\t\tPart-III Elective-I: Legal System in India
+\n\t\t\t\tThree Electives/Group Project
+\n\t\t\t\tPart-IV Value Education
+
+\n\nSemester VI\n\n\t\t\t\tPart-III Core Course-XII:Paper-XII:Management of Development Organisation
+\n\t\t\t\tPart-III Core Course-XIV:Paper-XIV:Women Development-Issued and Concerns
+\n\t\t\t\tPart-III Core Course-XV:Paper-XV:Filed work-VI
+\n\t\t\t\tProject
+\n\t\t\t\tPaper-XVI:Group Project Report
+\n\t\t\t\tPaper-XVII:Block Placement
+\n\t\t\t\tElective-II Human Rights
+\n\t\t\t\tElective-III Health Care
+\n\t\t\t\tPart-V Extension Activities"
+        android:textSize="17sp"/>
+
+</LinearLayout>

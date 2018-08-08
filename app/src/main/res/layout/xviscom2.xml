@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nIII Semester\n\n\t\t\t\tFoundation Course-Language
+\n\t\t\t\tVisual Communication
+\n\t\t\t\tFoundation Course-English-II
+\n\t\t\t\tAdvertising
+\n\t\t\t\tPrinting and Publication
+\n\t\t\t\tComputer Graphics I
+\n\t\t\t\tSoft Skill-Spoken and Presentation Skills Level I
+\n\t\t\t\tEnvironmental Studies (Exam in IV Sem)
+
+\n\nIV Semester\n\n\t\t\t\tFoundation Course-Language
+\n\t\t\t\tFoundation Course-English-II
+\n\t\t\t\tElements of Film
+\n\t\t\t\tBasic Photography
+\n\t\t\t\tPractical Photography
+\n\t\t\t\tSoft Skill-Spoken and Presentation Skills Level II
+\n\t\t\t\tEnvironmental Studies"
+        android:textSize="17sp"/>
+
+</LinearLayout>

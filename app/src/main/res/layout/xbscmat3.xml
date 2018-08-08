@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nV Semester\n\n\t\t\t\tAlgebraic Structures-I
+\n\t\t\t\tReal Analysis-I
+\n\t\t\t\tProgramming Language 'C' with Mathematical Practicals
+\n\t\t\t\tOperations Research-I
+\n\t\t\t\tValue Education
+
+\n\nVI Semester\n\n\t\t\t\tAlgebraic Structures-II
+\n\t\t\t\tReal Analysis-II
+\n\t\t\t\tComplex Analysis
+\n\t\t\t\tProgramming Language 'C' with Mathematical Practicals
+\n\t\t\t\tOperations Research-II"
+        android:textSize="17sp"/>
+
+</LinearLayout>

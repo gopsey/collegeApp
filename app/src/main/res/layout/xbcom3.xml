@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nV Semester\n\n\t\t\t\tCost Accounting
+\n\t\t\t\tPractical Auditing
+\n\t\t\t\tEntrepreneurial Development
+\n\t\t\t\tFinancial Management
+\n\t\t\t\tIncome Tax Law and Practices - I (Elective-I)
+\n\t\t\t\tValue Education
+
+\n\nVI Semester\n\n\t\t\t\tAdvanced Cost Accounting
+\n\t\t\t\tManagement Accounting
+\n\t\t\t\tBusiness Environment
+\n\t\t\t\tIncome Tax and Practices - II (Elective-II)
+\n\t\t\t\tHuman Resource Management (Elective-III)
+\n\t\t\t\tExtension Activities"
+        android:textSize="17sp"/>
+
+</LinearLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nV Semester\n\n\t\t\t\tPsychopathology-I
+\n\t\t\t\tPsychological Research and Measurement
+\n\t\t\t\tApplied Psychology
+\n\t\t\t\tSocial Psychology-I
+\n\t\t\t\tProject
+\n\t\t\t\tValue Education
+
+\n\nVI Semester\n\n\t\t\t\tPsychopathology-II
+\n\t\t\t\tOrganizational Psychology
+\n\t\t\t\tSocial Psychology-II
+\n\t\t\t\tProject
+\n\t\t\t\tExtension Activities"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+</LinearLayout>

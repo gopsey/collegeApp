@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nV Semester\n\n\t\t\t\tBusiness Ethics and Values
+\n\t\t\t\tMarketing Research
+\n\t\t\t\tProduction Management
+\n\t\t\t\tMaterials Management
+\n\t\t\t\tEnterpreneurial Development (Elective-I)
+\n\t\t\t\tValue Education
+
+\n\nVI Semester\n\n\t\t\t\tBusiness Environment
+\n\t\t\t\tServices Marketing
+\n\t\t\t\tHuman Resource Management
+\n\t\t\t\tCustomer Relationship Management (Elective-II)
+\n\t\t\t\tGroup Project Work (Elective-III)
+\n\t\t\t\tExtension Activities"
+        android:textSize="17sp"/>
+
+</LinearLayout>

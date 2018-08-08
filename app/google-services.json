@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1028734021076",
+    "firebase_url": "https://pcas-b3eb4.firebaseio.com",
+    "project_id": "pcas-b3eb4",
+    "storage_bucket": "pcas-b3eb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028734021076:android:ffefb12433bb8453",
+        "android_client_info": {
+          "package_name": "com.bvs.CollegeApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028734021076-mn48incs1pgmcp2f5aupt6amdkv660vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bvs.CollegeApp",
+            "certificate_hash": "74250520293ba93cabb2cb25c574f0423a71258e"
+          }
+        },
+        {
+          "client_id": "1028734021076-qqes7i0ob3e1labms0ob8qa10erh826s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTY2uoXR0VaKBxZ1sDrkE-bmuPAOmv6nI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028734021076-qqes7i0ob3e1labms0ob8qa10erh826s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

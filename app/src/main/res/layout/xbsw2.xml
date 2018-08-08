@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nSemester III\n\n\t\t\t\tPart-I Tamil-III
+\n\t\t\t\tPart-II English-III
+\n\t\t\t\tPart-III Core Paper-V:Social Work Practice with Individials and Groups-I
+\n\t\t\t\tPart-III Core Paper-VI:Field Work-III
+\n\t\t\t\tPart-III Allied-II: Economic and Political Systems and Processes
+\n\t\t\t\tPart-IV Soft Skills-III Spoken and Presentation Skills Level I
+\n\t\t\t\tPart-IV Environmental Studies
+
+\n\nSemester IV\n\n\t\t\t\tPart-I Tamil-IV
+\n\t\t\t\tPart-II English-IV
+\n\t\t\t\tPart-III Core Paper-VII:Social Work Practice with Individuals and Groups-II
+\n\t\t\t\tPart-III Core Paper-VIII:Field Work-IV
+\n\t\t\t\tPart-III Allied-IV:Human Behaviour
+\n\t\t\t\tPart-IV Soft Skills-IV Spoken and Presentation Skills Level II
+\n\t\t\t\tPart-IV Environmental studies"
+        android:textSize="17sp"/>
+
+</LinearLayout>

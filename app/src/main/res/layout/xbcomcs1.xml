@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nI Semester\n\n\t\t\t\tFoundation Course-Language
+\n\t\t\t\tFoundation Course-English
+\n\t\t\t\tCore I-Financial Accounting
+\n\t\t\t\tCore II-Company Law and Sec Practice-I
+\n\t\t\t\tMarketing (Allied)
+\n\t\t\t\tSoft Skill - Essentials of Language and Communication - Level I
+\n\t\t\t\tNon-major Elective
+
+\n\nII Semester\n\n\t\t\t\tFoundation Course-Language II
+\n\t\t\t\tFoundation Course-English II
+\n\t\t\t\tCore III-Financial Accounting
+\n\t\t\t\tCore IV-HRM
+\n\t\t\t\tBusiness Communication (Allied)
+\n\t\t\t\tSoft Skill - Essentials of Language and Communication - Level I
+\n\t\t\t\tNon-major Elective"
+        android:textSize="17sp"/>
+
+</LinearLayout>

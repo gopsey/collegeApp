@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nV Semester\n\n\t\t\t\tManagement Accounting
+\n\t\t\t\tSecurities Laws and Market Operations
+\n\t\t\t\tIncome Tax Law and Practice-I
+\n\t\t\t\tCommercial Law
+\n\t\t\t\tEntrepreneurial Development
+\n\t\t\t\tValue Education
+
+\n\nVI Semester\n\n\t\t\t\tCost Accounting
+\n\t\t\t\tIndustrial Laws
+\n\t\t\t\tIncome Tax Law and Practice-II
+\n\t\t\t\tIndirect Taxes
+\n\t\t\t\tInstitutional Training
+\n\t\t\t\tExtension Activities"
+        android:textSize="17sp"/>
+
+</LinearLayout>

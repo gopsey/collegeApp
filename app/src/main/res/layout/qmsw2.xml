@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\tIII Semester"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+        <Button
+            android:id="@+id/dwnld"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200dp"
+            android:layout_marginStart="200dp"
+            android:text="DOWNLOAD"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"
+        android:text="\n\n\t\t\t\tLabour Legislations
+\n\t\t\t\tHuman Resource Management
+\n\t\t\t\tMental Health Social Work
+\n\t\t\t\tCounselling
+
+\n\n\tIV Semester\n\n\t\t\t\tIndustrial Relations and Labour Welfare
+\n\t\t\t\tOrganizational Behaviour and Organizational Development
+\n\t\t\t\tCommunity Health
+\n\t\t\t\tPsychiatric Social Work Practice"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\n\nNote: The question papers are compressed in zip files. You may require a separate app to open zip files"/>
+
+</LinearLayout>
+</ScrollView>

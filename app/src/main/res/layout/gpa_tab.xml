@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:fillViewport="true">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:background="@color/bg_gpa"
+                  android:orientation="vertical"
+                  android:weightSum="1">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="GPA"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"/>
+
+        <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:background="?android:attr/selectableItemBackground">
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dip"
+                android:layout_marginBottom="4dip"
+                android:layout_marginLeft="6dip"
+                android:layout_marginRight="6dip"
+                android:layout_marginTop="2dip"
+                android:background="@color/black"/>
+
+            <TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:background="?android:attr/selectableItemBackground">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#8BC34A"
+                    android:textColor="@color/black"
+                    android:padding="9dp"
+                    android:text="SUBJECT 1"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginLeft="6dp"/>
+
+                <Button
+                    android:id="@+id/subject1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Credit"
+                    android:layout_weight="5"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginLeft="6dp"/>
+
+                <Button
+                    android:id="@+id/grade1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="MARKS"
+                    android:layout_weight="3"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginLeft="2dp"/>
+            </TableRow>
+
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#8BC34A"
+                    android:textColor="@color/black"
+                    android:padding="9dp"
+                    android:text="SUBJECT 2"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginLeft="6dp"/>
+
+                <Button
+                    android:id="@+id/subject2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Credit"
+                    android:layout_weight="5"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginLeft="6dp"/>
+
+                <Button
+                    android:id="@+id/grade2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="MARKS"
+                    android:layout_weight="3"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginLeft="2dp"/>
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#8BC34A"
+                    android:textColor="@color/black"
+                    android:padding="9dp"
+                    android:text="SUBJECT 3"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginLeft="6dp"/>
+
+                <Button
+                    android:id="@+id/subject3"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Credit"
+                    android:layout_weight="5"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginLeft="6dp"/>
+
+                <Button
+                    android:id="@+id/grade3"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="MARKS"
+                    android:layout_weight="3"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginLeft="2dp"/>
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#8BC34A"
+                    android:textColor="@color/black"
+                    android:padding="9dp"
+                    android:text="SUBJECT 4"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginLeft="6dp"/>
+
+                <Button
+                    android:id="@+id/subject4"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Credit"
+                    android:layout_weight="5"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginLeft="6dp"/>
+
+                <Button
+                    android:id="@+id/grade4"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="MARKS"
+                    android:layout_weight="3"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginLeft="2dp"/>
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#8BC34A"
+                    android:textColor="@color/black"
+                    android:padding="9dp"
+                    android:text="SUBJECT 5"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginLeft="6dp"/>
+
+                <Button
+                    android:id="@+id/subject5"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Credit"
+                    android:layout_weight="5"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginLeft="6dp"/>
+
+                <Button
+                    android:id="@+id/grade5"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="MARKS"
+                    android:layout_weight="3"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginLeft="2dp"/>
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#8BC34A"
+                    android:textColor="@color/black"
+                    android:padding="9dp"
+                    android:text="SUBJECT 6"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginLeft="6dp"
+                    android:id="@+id/textView2"/>
+
+                <Button
+                    android:id="@+id/subject6"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Credit"
+                    android:layout_weight="5"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginLeft="6dp"/>
+
+                <Button
+                    android:id="@+id/grade6"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="MARKS"
+                    android:layout_weight="3"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginLeft="2dp"/>
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#8BC34A"
+                    android:textColor="@color/black"
+                    android:padding="9dp"
+                    android:text="SUBJECT 7"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginLeft="6dp"/>
+
+                <Button
+                    android:id="@+id/subject7"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Credit"
+                    android:layout_weight="5"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginLeft="6dp"/>
+
+                <Button
+                    android:id="@+id/grade7"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="MARKS"
+                    android:layout_weight="3"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginLeft="2dp"/>
+
+
+
+            </TableRow>
+
+        </TableLayout>
+
+        <Button
+            android:id="@+id/ok"
+            android:layout_width="123dp"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_weight="0.47"
+            android:text="Calculate">
+        </Button>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dip"
+            android:layout_marginBottom="4dip"
+            android:layout_marginLeft="6dip"
+            android:layout_marginRight="6dip"
+            android:layout_marginTop="2dip"
+            android:background="@color/black"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Your GPA is : "
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="..."
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+</ScrollView>

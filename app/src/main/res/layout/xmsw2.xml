@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nIII Semester\n\n\t\t\t\tSpecialization Paper-I Specialization Paper-II
+\n\t\t\t\tField Work Practicum III
+\n\t\t\t\tElective-III
+\n\t\t\t\tElective-IV
+\n\t\t\t\tSoft Skills-III Study Tour
+
+\n\nIV Semester\n\n\t\t\t\tSpecialization Paper-III Specialization Paper-IV Field Work Practicum IV Project Report
+\n\t\t\t\tSoft Skills-IV:Block Placement
+\n\t\t\t\tElective-I: Disaster Management/Working with People living with HIV/AIDS
+\n\t\t\t\tElective-II: Women and Development/Management of Organisations
+\n\t\t\t\tElective-III:Counselling/Social Work Intervention for environmental protection
+\n\t\t\t\tElective-IV: Social Policy and Social Legislation/Human Rights
+\n\t\t\t\tSpecialization Paper-I: Labour Legislations/Medical Social Work
+\n\t\t\t\tSpecialization Paper-II: Human Resource Management/Mental Health Social Work
+\n\t\t\t\tSpecialization Paper-III: Industrial Relations and Labour Welfare/Community Health
+\n\t\t\t\tSpecialization Paper-IV: Organizational Behaviour and Organizational Development/Psychiatric Social Work Practice"
+        android:textSize="17sp"/>
+
+</LinearLayout>

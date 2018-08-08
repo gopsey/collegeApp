@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n\tSEMESTER V"
+            android:textSize="15sp"
+            android:textColor="@android:color/black"/>
+
+        <Button
+            android:id="@+id/dwnld"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200dp"
+            android:layout_marginStart="200dp"
+            android:text="DOWNLOAD"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\n\t\t\t\tProgramming in C++ and Data Structures"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\t\t\t\tMicroprocessors and its Applications"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\t\t\t\tNumerical and Statistical Methods"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\t\t\t\tFinancial Accounting"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\t\t\t\tSoft Skill - Spoken and Presentation Skills Level I"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\n\tSEMESTER VI"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\t\t\t\tProgramming in Java"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\t\t\t\tOperating System"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\t\t\t\tComputer Graphics"
+        android:textColor="@android:color/black"
+        android:textSize="15sp"/>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\t\t\t\tCost and Management Accounting"
+        android:textColor="@android:color/black"
+        android:textSize="15sp"/>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\t\t\t\tSoft Skills - Spoken and Presentation Skills Level II"
+        android:textColor="@android:color/black"
+        android:textSize="15sp"/>
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\t\t\t\tEnvironmental Studies"
+        android:textColor="@android:color/black"
+        android:textSize="15sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\n\nNote: The question papers are compressed in zip files. You may require a separate app to open zip files"/>
+
+</LinearLayout>
+</ScrollView>

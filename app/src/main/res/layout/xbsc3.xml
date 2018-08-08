@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nV Semester\n\n\t\t\t\tOperating Systems
+\n\t\t\t\tDatabase Management Systems
+\n\t\t\t\tComputer Architecture and Organization
+\n\t\t\t\tRDBMS LAB
+\n\t\t\t\tVisual Programming (Elective - I)
+\n\t\t\t\tValue Education
+
+\n\nVI Semester\n\n\t\t\t\tData Communication and Networkinh
+\n\t\t\t\tWeb Technology
+\n\t\t\t\tWeb Applications LAB
+\n\t\t\t\tData Mining (Elective - II)
+\n\t\t\t\tComputer Graphics (Elective - III)
+\n\t\t\t\tExtension Activities"
+        android:textSize="17sp"/>
+
+</LinearLayout>

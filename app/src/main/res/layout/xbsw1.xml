@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\n\nSemester I\n\n\t\t\t\tPart-I English-I
+\n\t\t\t\tPart-II Tamil-I
+\n\t\t\t\tPart-III Core Paper-I:Social Work Prefession
+\n\t\t\t\tPart-III Core Paper-II:Field Work-I
+\n\t\t\t\tPart-III Allied Paper-I:Sociology and Its relevance for Social Work
+\n\t\t\t\tPart-IV Soft Skills I-Essential of Lang and Comm Level I
+\n\t\t\t\tNon-major Electives
+
+\n\nSemester II\n\n\t\t\t\tPart-I Tamil-II
+\n\t\t\t\tPart-II English-II
+\n\t\t\t\tPart-III Core Paper-I: Basic Intervention Process and Techniques
+\n\t\t\t\tPart-III Core Paper-IV: Field Work-II
+\n\t\t\t\tPart-III Allied-II: Human Growth and Development
+\n\t\t\t\tPart-IV Soft Skill I-Essential of Lang and Comm Level II
+\n\t\t\t\tNon-major Electives"
+        android:textSize="17sp"/>
+
+</LinearLayout>

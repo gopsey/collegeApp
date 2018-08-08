@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="\n\tI Semester"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"/>
+
+        <Button
+            android:id="@+id/dwnld"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200dp"
+            android:layout_marginStart="200dp"
+            android:text="DOWNLOAD"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"
+        android:text="\n\n\t\t\t\tFoundation Course-Language
+\n\t\t\t\tFoundation Course-English-I
+\n\t\t\t\tCore Subjects-Paper-I-Elizabethan Age
+\n\t\t\t\tCore Subjects-Paper-II-Milton and the Neo-Classical Age
+\n\t\t\t\tAllied-Paper-I-An Introduction to the Social History of England
+\n\t\t\t\tSoft Skill-Personality Enrichment-Level I
+\n\t\t\t\tNon-major Elective
+
+\n\nII Semester\n\n\t\t\t\tFoundation Course-Language
+\n\t\t\t\tFoundation Course-English
+\n\t\t\t\tCore Subjects-Paper-I-The Romantic Age
+\n\t\t\t\tCore Subjects-Papar-II-The Victorial Age
+\n\t\t\t\tAllied-Paper-VI-An Introduction to the Literary Forms
+\n\t\t\t\tSoft Skill-Personality Enrichment-Level II
+\n\t\t\t\tNon-Major Elective"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\n\nNote: The question papers are compressed in zip files. You may require a separate app to open zip files"/>
+
+
+
+</LinearLayout>
+    </ScrollView>
